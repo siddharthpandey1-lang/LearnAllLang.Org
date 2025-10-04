@@ -1,0 +1,7 @@
+print("hello")
+print("this is app where you can learn many languages")
+print("you can learn French, Spanish, German, Italian, and many more")
+print("whats your name?")
+name = input()
+print("hello " + name)
+print("lets start learning")
