@@ -15,7 +15,7 @@ text_color = (255, 255, 255)        # White
 
 # Fonts
 title_font = pygame.font.SysFont("comicsansms", 40, bold=True)
-text_font = pygame.font.SysFont("arial", 30)
+text_font = pygame.font.SysFont("comicsansms", 30)
 
 # Messages
 messages = [
